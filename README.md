@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project MeloVerse
 
 Develop an elegant React.js Music Application. 
 
